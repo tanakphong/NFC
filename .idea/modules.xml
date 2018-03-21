@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NFC.iml" filepath="$PROJECT_DIR$/NFC.iml" />
+      <module fileurl="file://D:\###MyWork\03.Android\NFC\NFC.iml" filepath="D:\###MyWork\03.Android\NFC\NFC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\###MyWork\03.Android\NFC\app\app.iml" filepath="D:\###MyWork\03.Android\NFC\app\app.iml" />
     </modules>
   </component>
 </project>
